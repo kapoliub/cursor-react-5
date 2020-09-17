@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cursor-react-5/static/css/main.0759738e.chunk.css",
-    "main.js": "/cursor-react-5/static/js/main.5b26fadb.chunk.js",
-    "main.js.map": "/cursor-react-5/static/js/main.5b26fadb.chunk.js.map",
+    "main.js": "/cursor-react-5/static/js/main.063342d6.chunk.js",
+    "main.js.map": "/cursor-react-5/static/js/main.063342d6.chunk.js.map",
     "runtime-main.js": "/cursor-react-5/static/js/runtime-main.0aff1afc.js",
     "runtime-main.js.map": "/cursor-react-5/static/js/runtime-main.0aff1afc.js.map",
     "static/js/2.db5c08fd.chunk.js": "/cursor-react-5/static/js/2.db5c08fd.chunk.js",
     "static/js/2.db5c08fd.chunk.js.map": "/cursor-react-5/static/js/2.db5c08fd.chunk.js.map",
     "index.html": "/cursor-react-5/index.html",
-    "precache-manifest.ef6b97bac675a7c8ba40d23626383de4.js": "/cursor-react-5/precache-manifest.ef6b97bac675a7c8ba40d23626383de4.js",
+    "precache-manifest.0941a194ad9690ed413bdcb2671cea67.js": "/cursor-react-5/precache-manifest.0941a194ad9690ed413bdcb2671cea67.js",
     "service-worker.js": "/cursor-react-5/service-worker.js",
     "static/css/main.0759738e.chunk.css.map": "/cursor-react-5/static/css/main.0759738e.chunk.css.map",
     "static/js/2.db5c08fd.chunk.js.LICENSE.txt": "/cursor-react-5/static/js/2.db5c08fd.chunk.js.LICENSE.txt",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.0aff1afc.js",
     "static/js/2.db5c08fd.chunk.js",
     "static/css/main.0759738e.chunk.css",
-    "static/js/main.5b26fadb.chunk.js"
+    "static/js/main.063342d6.chunk.js"
   ]
 }
