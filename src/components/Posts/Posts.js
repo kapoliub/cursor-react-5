@@ -26,7 +26,7 @@ function Posts() {
           photo: ANAKIN_IMAGE,
           nickname: "@dart_vader",
         }}
-        content="Pretty walking with my son"
+        content="Pretty walk with my son"
         image={WINDOW_VIEW}
         date={"28 янв."}
       />
