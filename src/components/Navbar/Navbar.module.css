@@ -1,0 +1,26 @@
+.navbar {
+  display: flex;
+  background-color: black;
+  min-height: 50px;
+  max-height: 200px;
+  justify-content: space-around;
+  align-items: center;
+  padding: 15px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white;
+  padding: 5px;
+  transition: 0.1s;
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  color: lightskyblue;
+}
+
+.navbar a.active {
+  transform: scale(1.1);
+  color: lightskyblue;
+}

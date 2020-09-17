@@ -1,0 +1,22 @@
+.photoWrapper {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 15px;
+  background-color: #fff;
+  margin-bottom: 15px;
+}
+
+.portraitWrapper img {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.textBlock {
+  text-align: left;
+  text-align: justify;
+  color: rgb(62, 62, 62);
+}
+.name {
+  font-weight: bold;
+  padding-bottom: 15px;
+}
